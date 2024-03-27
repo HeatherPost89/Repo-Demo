@@ -1,3 +1,3 @@
 # DEMO
 
-Simple text to display
+Simple text to display!
